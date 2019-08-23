@@ -1,0 +1,42 @@
+figure{
+    border: 1px solid  black;
+}
+   
+#imagem1{
+    float:left;
+    margin-left: 11%;
+    margin-top: 1%;
+    margin-right: 1%;
+}
+
+#texto{
+    margin-right: 13%;
+    margin-left: 20%;
+    margin-top: 4%;
+    font-family: serif;
+    font-size: 20px;
+}
+
+#texto2{
+    margin-right: 144px;
+    margin-left: 300px;
+    font-family: serif;
+    font-size: 20px;
+}
+
+#texto3{  
+    margin-right: 144px;
+    margin-left: 300px;
+    font-family: serif;
+    font-size: 20px;
+    }
+
+#texto4{ margin-right: 144px;
+    margin-left: 300px;
+    font-family: serif;
+    font-size: 20px;
+}
+
+    
+ 
+    

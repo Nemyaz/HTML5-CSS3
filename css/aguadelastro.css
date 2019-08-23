@@ -1,0 +1,43 @@
+*{
+	margin: 0%;
+	padding: 0%;
+}
+
+#conteudo{
+	width: 80%;
+	height:650%;
+	/*border: 3px solid black;*/
+	margin-left: 11%
+}
+h1{
+	text-align:center;
+}
+#textotema{
+	position: relative;
+	width: 50%;
+	height: 80%;
+	/*margin-left:10pt;*/
+	/*border: 3px solid black;*/
+    text-align: justify;
+}
+
+figure{
+	position: relative;
+	float: right;
+	/*border: 3px solid black;*/
+	width: 40%;
+	height: 40%;
+	margin: 3.9% 3.2%;
+	padding: 0%
+}
+
+#navio{
+	width: 85%;
+	height:10%;
+	margin-right:0%;
+	padding-right:0%
+	
+}
+figcaption{
+	text-align:center;
+}

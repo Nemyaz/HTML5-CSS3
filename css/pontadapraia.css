@@ -1,0 +1,42 @@
+#pontadapraia{
+                    margin-left: 11%;
+                    margin-right: 11%;
+                        }
+#legenda{
+                margin-left: 150px;
+                margin-right: 150px;
+                color: black;
+                font-size: 22px;
+            }
+        
+#estruturaponta{
+                float: right;
+                margin-right: 11%;
+              /*  border: 1px solid black;*/
+    
+                
+}
+            
+#texto2{
+                color: black;
+                text-align: justify;
+                margin-left: 150px;
+                margin-right:auto;   
+                margin-right: 455px;
+                font-size: 22px; 
+                font-family: sans-serif;
+            }
+#projeto{
+    background-color: darkblue;
+    color: white;
+    margin-left: 150px;
+    margin-right: 150px;
+    padding: 5px;    
+    
+}
+
+
+footer{
+    background-color: darkslateblue;
+    border-top: 1px solid black;
+}

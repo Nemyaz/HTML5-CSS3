@@ -1,0 +1,124 @@
+
+footer{
+    box-sizing: border-box;
+    
+    clear: both;
+    position: relative;
+    background-color: white;
+    height: 315px;
+    top: 0px;
+    right: 0px;
+    left: 0px;
+    margin: 0px auto;
+    /*border: 1px solid white;*/
+    width: auto;
+    height: 400px;
+    
+}
+/*bloco de informações*/
+#linha{
+    margin-top: 10px;
+    background-color: gray;
+    height: 1px;/*0.3%*/;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+#menulateral{
+        
+        /*border: 1px solid red;*/
+        
+        margin-top: 5px;
+        position: absolute;
+        width: 19%;
+        height: 64.5%;
+        background-color: white;
+        margin-left: 150px;
+    
+    
+        
+}
+#bloco1{
+        margin-top: 5px;
+        position: absolute;
+        width: 57.75%;
+        height: 64.5%;
+        background-color: royalblue;
+        margin-left: 420px;
+        
+    
+        /*border: 1px solid black;*/
+}
+#infe{
+        position: absolute;
+        width: 77.75%;
+        height: 15%;
+        background-color: purple;
+        margin-top: 275px;
+        margin-left: 150px;
+    
+        /*border: 1px solid green;*/
+    
+}
+
+#linha2{
+    margin-top: 340px;
+    background-color: gray;
+    height: 1px;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+#menulateral a {
+    margin-top: 12.5px;
+    margin-left: auto;
+    display: block;
+    margin-bottom:auto;
+    text-decoration: none;
+    color:dodgerblue;
+    /*border: 1px solid black;*/
+    text-align: center;
+    
+
+}
+#menulateral   a:hover {
+  background-color: mediumpurple;
+  color: white;
+}
+#textodiv1{
+    text-decoration: underline;
+    text-align: center;  
+    font-size: 28px;
+    font-weight: bold;
+
+
+}
+#email{
+    display: block;
+    text-align: center;
+    font-size:35px;
+    
+
+}
+#email a:  hover {
+    color: red;
+    font-weight: bold;
+    font-size: 50px
+}
+/*barra roxa*/
+
+#barraroxa{
+    font-family:Arial, Helvetica,"sans-serif";
+    font-size: 25px;
+    font-weight:bold;
+    color:white;
+    text-align: center;
+    margin-top: 16px;
+    
+}
+
+#menulateral a {
+    /*border: 1px solid black;*/
+    
+    margin-top: 18px;
+    
+    
+}
